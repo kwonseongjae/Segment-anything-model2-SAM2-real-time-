@@ -9,10 +9,11 @@ With reference to Segment Anything Model2 (SAM2), we added a function to recogni
 3. python code edit(points or bbox)
 4. start python code  
    
-### inference.py 
+### inference
+![bandicam2024-09-1111-13-30-276-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/2b830964-bef4-44f3-a27f-943f39e6c2f0)
 
 
-### inference_Chromakey.py
+### inference_Chromakey
 
 
 
