@@ -1,4 +1,9 @@
 # Real-Time Inferece and Composition Chromakey Color(0,175,57) with SAM2 
+Segment Anything Model2(SAM2)를 참고하여 real-time에서 실시간 통신을 통해 객체를 인식하고 크로마키 배경인 RGB(0,175,57)를 추가해여 크로마키 배경판이 없이도 크로마키 효과를 보일 수 있게 기능을 추가 하였다.
+
+With reference to Segment Anything Model2 (SAM2), we added a function to recognize objects through real-time communication in real-time and add RGB (0,175,57), which is a chroma key background, so that the chroma key effect can be displayed without a chroma key background.
+
+#How to Use Inference
 
 ## SAM 2: Segment Anything in Images and Videos and Real-Time
 
