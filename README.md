@@ -4,7 +4,17 @@ Segment Anything Model2(SAM2)를 참고하여 real-time에서 실시간 통신�
 With reference to Segment Anything Model2 (SAM2), we added a function to recognize objects through real-time communication in real-time and add RGB (0,175,57), which is a chroma key background, so that the chroma key effect can be displayed without a chroma key background.
 
 ## How to Use Inference
-1. Download inference.py and inference_Chromakey.py
+1. git clone
+2. GPU setting
+3. python code edit(points or bbox)
+4. start python code  
+   
+### inference.py 
+
+
+### inference_Chromakey.py
+
+
 
 ## SAM 2: Segment Anything in Images and Videos and Real-Time
 
