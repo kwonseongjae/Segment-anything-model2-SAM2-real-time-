@@ -1,4 +1,4 @@
-# SAM 2: Segment Anything in Images and Videos
+# SAM 2: Segment Anything in Images and Videos and Real-TIme
 
 **[AI at Meta, FAIR](https://ai.meta.com/research/)**
 
@@ -6,11 +6,13 @@
 
 [[`Paper`](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)] [[`Project`](https://ai.meta.com/sam2)] [[`Demo`](https://sam2.metademolab.com/)] [[`Dataset`](https://ai.meta.com/datasets/segment-anything-video)] [[`Blog`](https://ai.meta.com/blog/segment-anything-2)] [[`BibTeX`](#citing-sam-2)]
 
-![SAM 2 architecture](assets/model_diagram.png?raw=true)
+## Real-Time Inferece and Composition Chromakey Color(0,175,57) with SAM2 
+
+
 
 **Segment Anything Model 2 (SAM 2)** is a foundation model towards solving promptable visual segmentation in images and videos. We extend SAM to video by considering images as a video with a single frame. The model design is a simple transformer architecture with streaming memory for real-time video processing. We build a model-in-the-loop data engine, which improves model and data via user interaction, to collect [**our SA-V dataset**](https://ai.meta.com/datasets/segment-anything-video), the largest video segmentation dataset to date. SAM 2 trained on our data provides strong performance across a wide range of tasks and visual domains.
 
-![SA-V dataset](assets/sa_v_dataset.jpg?raw=true)
+
 
 ## Installation
 
