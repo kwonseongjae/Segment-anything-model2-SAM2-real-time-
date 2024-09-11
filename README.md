@@ -4,7 +4,7 @@
 
 (With reference to Segment Anything Model2 (SAM2), we added a function to recognize objects through real-time communication in real-time and add RGB (0,175,57), which is a chroma key background, so that the chroma key effect can be displayed without a chroma key background.) 
 
-# 기존의 SAM2을 사용하기 위해선 SAM2(https://github.com/facebookresearch/segment-anything-2.git)를 참고하여 clone 및 GPU환경을 셋팅하기를 바란다
+## 기존의 SAM2을 사용하기 위해선 [SAM2](https://github.com/facebookresearch/segment-anything-2.git) 를 참고하여 clone 및 GPU환경을 셋팅하기를 바란다
 
 # SAM 2: Segment Anything in Images and Videos
 
