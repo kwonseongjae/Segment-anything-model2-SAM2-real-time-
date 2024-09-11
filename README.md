@@ -16,6 +16,9 @@ With reference to Segment Anything Model2 (SAM2), we added a function to recogni
 ### inference_Chromakey
 ![bandicam2024-09-1111-22-10-669-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1ac02592-753a-4acf-95e2-832ad9059d21)
 
+### Speed Comparision by GPU/Model
+![Mdel GPU_FPS차이](https://github.com/user-attachments/assets/5ae6f922-49a3-40d3-b520-4f0ceec1de81)
+
 
 
 ## SAM 2: Segment Anything in Images and Videos and Real-Time
